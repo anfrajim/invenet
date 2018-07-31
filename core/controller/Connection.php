@@ -5,7 +5,7 @@ class Connection {
 
 function Database()
 {
-	$con = new mysqli("localhost","root","andres","invenet1");
+	$con = new mysqli("localhost","root","","invenet1");
 	if ($con->connect_errno)
 	{
 		echo "Error de Conexion a la Base de Datos  ".$con->connect_errno;
