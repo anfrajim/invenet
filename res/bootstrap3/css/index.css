@@ -1,0 +1,315 @@
+body
+{
+   background-color: #A9A9A9;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #A9A9A9;
+   background: -moz-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: -webkit-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: -o-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: -ms-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#Marquee1
+{
+   background-color: #696969;
+   background: -moz-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: -webkit-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: -o-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: -ms-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: linear-gradient(bottom,#696969 0%,#000000 100%);
+   border: 1px #C0C0C0 solid;
+   text-align: center;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: justify;
+}
+#wb_Text1 div
+{
+   text-align: justify;
+}
+#Login1
+{
+   background-color: #FFFFFF;
+   border-color:#CCCCCC;
+   border-width:1px;
+   border-style: solid;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border-radius: 4px;
+   color: #000000;
+   border-spacing: 6px;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   text-align: left;
+   width: 244px;
+   height: 283px;
+}
+#Login1 td
+{
+   padding: 0;
+}
+#Login1 .header
+{
+   background-color: #878787;
+   color: #FFFFFF;
+   height: 16px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+}
+#Login1 .label
+{
+   height: 16px;
+}
+#Login1 .row
+{
+   height: 30px;
+   text-align: left;
+}
+#Login1 .input
+{
+   background-color: #FFFFFF;
+   border-color: #CCCCCC;
+   border-width: 1px;
+   border-style: solid;
+   -moz-border-radius: 2px;
+   -webkit-border-radius: 2px;
+   border-radius: 2px;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   width: 100%;
+   height: 30px;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   padding: 6px 4px 6px 4px;
+}
+#Login1 .input:focus
+{
+   border-color: #66AFE9;
+   outline: 0;
+   -webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   -moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+}
+#Login1 .button
+{
+   background-color: #3370B7;
+   border-color: #2E6DA4;
+   border-width: 1px;
+   border-style: solid;
+   -moz-border-radius: 3px;
+   -webkit-border-radius: 3px;
+   border-radius: 3px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   padding: 4px 14px 4px 14px;
+}
+#PageFooter1
+{
+   background-color: #000000;
+   background: -moz-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: -webkit-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: -o-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: -ms-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#wb_uid1
+{
+   color: #F5F5F5;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_uid2
+{
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+}
+#wb_Text1
+{
+   position: absolute;
+   left: 261px;
+   top: 785px;
+   width: 747px;
+   height: 56px;
+   text-align: justify;
+   z-index: 4;
+}
+#wb_uid3
+{
+   text-align: center;
+   vertical-align: bottom;
+}
+#wb_Image1
+{
+   position: absolute;
+   left: 488px;
+   top: 164px;
+   width: 244px;
+   height: 116px;
+   z-index: 3;
+}
+#wb_Login1
+{
+   position: absolute;
+   left: 488px;
+   top: 280px;
+   width: 244px;
+   height: 283px;
+   z-index: 5;
+}
+#Marquee1
+{
+   position: absolute;
+   left: 422px;
+   top: 135px;
+   width: 369px;
+   height: 462px;
+   z-index: 2;
+}
+#PageHeader1
+{
+   position: absolute;
+   text-align: left;
+   left: 0px;
+   top: 0px;
+   width: 100%;
+   height: 86px;
+   z-index: 7;
+}
+#PageFooter1
+{
+   position: absolute;
+   overflow: hidden;
+   text-align: left;
+   left: 0px;
+   top: 951px;
+   width: 100%;
+   height: 83px;
+   z-index: 6;
+}
+#wb_uid0
+{
+   position: absolute;
+   left: 441px;
+   top: 967px;
+   border-width: 0;
+   z-index: 250;
+}
+@media only screen
+{
+body
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#PageHeader1
+{
+   top: 0px;
+   height: 86px;
+   visibility: visible;
+   background-color: #A9A9A9;
+   background: -moz-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: -webkit-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: -o-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: -ms-linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+   background: linear-gradient(bottom,#A9A9A9 0%,#000000 100%);
+}
+#PageHeader1
+{
+   width: 98.9796%;
+}
+#BuildWith1
+{
+   left: 441px;
+   top: 967px;
+   width: 88px;
+   height: 31px;
+   visibility: visible;
+   display: inline;
+}
+#Marquee1
+{
+   left: 422px;
+   top: 135px;
+   width: 375px;
+   height: 476px;
+   visibility: visible;
+   display: inline;
+   color: #000000;
+   font-size: 13px;
+   background-color: #696969;
+   background: -moz-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: -webkit-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: -o-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: -ms-linear-gradient(bottom,#696969 0%,#000000 100%);
+   background: linear-gradient(bottom,#696969 0%,#000000 100%);
+}
+#wb_Login1
+{
+   left: 488px;
+   top: 280px;
+   width: 244px;
+   height: 283px;
+   visibility: visible;
+   display: inline;
+}
+#Login1
+{
+   width: 244px;
+   height: 283px;
+}
+#Login1
+{
+}
+#PageFooter1
+{
+   top: 951px;
+   height: 83px;
+   visibility: visible;
+   font-size: 13px;
+   background-color: #000000;
+   background: -moz-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: -webkit-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: -o-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: -ms-linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+   background: linear-gradient(bottom,#000000 0%,#F5F5F5 100%);
+}
+#PageFooter1
+{
+   width: 98.9796%;
+}
+}
