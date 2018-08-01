@@ -3,3 +3,5 @@
  
 Basado en INVENTIO creado por EVILNAPSIS, este nuevo proyecto tiene cambios en la base de datos y puedes tener diferentes niveles de usuarios, Devolución o reembolso el tema de bootstrap usado en las vistas es NICE ADMIN.
 
+User: admin Password: admin 
+
